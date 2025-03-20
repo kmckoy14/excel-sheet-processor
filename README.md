@@ -1,0 +1,1 @@
+The script can: Open and read excel file contents. Parse through column and row data. Log processed excel files into a folder. It will log processed file names into a text file.
