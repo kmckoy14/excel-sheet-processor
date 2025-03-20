@@ -1,1 +1,9 @@
-The script can: Open and read excel file contents. Parse through column and row data. Log processed excel files into a folder. It will log processed file names into a text file.
+
+Excel Sheet Processor
+This script automates the processing of Excel files, making it easier for the team to manage and track data.
+
+Features:
+Open and read Excel file contents
+Parse column and row data
+Log processed Excel files into a designated folder
+Record processed file names in a text file for reference
